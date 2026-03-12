@@ -1,5 +1,5 @@
 # Python za študente gradbeništva
-Gradivo je prvotno namenjeno študentom Fakutete za gradbeništvo, prometno inženirstvo in arhitekturo Univerze v Mariboru kot učno gradivo pri predmetih Računalniško programiranje 1 in Račnalniško programiranje 2. 
+Gradivo je prvotno namenjeno študentom Fakutete za gradbeništvo, prometno inženirstvo in arhitekturo Univerze v Mariboru kot učno gradivo pri predmetu Računalniško programiranje 2. 
 
 1. [Kompleksne podatkovne strukture](RP2_P1_Kompleksne_podatkovne_strukture.ipynb)
    Predstavitev dela s seznami (list), n-tericami (tuple), množicami (set) in slovarji (dictionary). 
@@ -12,3 +12,6 @@ Gradivo je prvotno namenjeno študentom Fakutete za gradbeništvo, prometno inž
 9. [Limita in odvod - numerični pristop](RP2_P5_NumPy_odvod.ipynb)
    Numerični pristop k rčaunanju odvoda znane in neznane funkcije
    
+VAJE
+1. [Risanje grafa funkcije](RP2_V2_risanje_grafov_funkcije.ipynb)
+   Numerični pristopi k risanju eksplicitno in parametrično podanih funkcij ter funkcij podanih v polarnih koordinatah.
