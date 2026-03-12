@@ -1,7 +1,8 @@
 # Python za študente gradbeništva
 Gradivo je prvotno namenjeno študentom Fakutete za gradbeništvo, prometno inženirstvo in arhitekturo Univerze v Mariboru kot učno gradivo pri predmetu Računalniško programiranje 2. Gradiva so izdelana v formatu Jupyter Notebook (.ipynb) in jih je mogoče sneti iz repozitorija ter uporabljati kot aktivne delovne zvezke. Na svojem računalniku uporabnik lahko samostojno spreminja in eksperimentira z napisano programsko kodo. 
 
-OPOMBA:Za aktivno uporabo je potrebno predhodno namestiti okolje Python in Jupyter Notebook. Priporočamo namestitev distribucije [![Anaconda](https://anaconda.org/conda-forge/scores/badges/version.svg)](https://anaconda.org).
+OPOMBA:Za aktivno uporabo je potrebno predhodno namestiti okolje Python in Jupyter Notebook. Priporočamo namestitev distribucije Anaconda.
+[![Anaconda](https://anaconda.org/conda-forge/scores/badges/version.svg)](https://anaconda.org).
 
 1. [Kompleksne podatkovne strukture](RP2_P1_Kompleksne_podatkovne_strukture.ipynb)
    Predstavitev dela s seznami (list), n-tericami (tuple), množicami (set) in slovarji (dictionary). 
