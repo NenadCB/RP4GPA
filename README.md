@@ -1,14 +1,14 @@
-#Python za študente gradbeništva
+# Python za študente gradbeništva
 Gradivo je prvotno namenjeno študentom Fakutete za gradbeništvo, prometno inženirstvo in arhitekturo Univerze v Mariboru kot učno gradivo pri predmetih Računalniško programiranje 1 in Račnalniško programiranje 2. 
 
 1. [Kompleksne podatkovne strukture](RP2_P1_Kompleksne_podatkovne_strukture.ipynb)
    Predstavitev dela s seznami (list), n-tericami (tuple), množicami (set) in slovarji (dictionary). 
-3. Uporabniško definirane funkcije
+3. [Uporabniško definirane funkcije](RP2_P2_Uporabnisko_definirane_funkcije.ipynb)
    Definiranje lastnih funkcij in prenos parametrov
-5. Uvod v NumPy
+5. [Uvod v NumPy](RP2_P3_Uvod_v_NumPy_polja.ipynb)
    Predstavitev podatkovne strukture `ndarray` ter principov indeksiranja in rezanja.
-7. Vertorji in matrike
+7. [Vektorji in matrike](RP2_P4_Vektorji_in_matrike.ipynb)
    Računanje z vektorji in matrikami z uporabo NumPy.
-9. Limita in odvod - numerični pristop
+9. [Limita in odvod - numerični pristop](RP2_P5_NumPy_odvod.ipynb)
    Numerični pristop k rčaunanju odvoda znane in neznane funkcije
    
