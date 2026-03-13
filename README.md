@@ -17,7 +17,7 @@ VSEBINA
 7. [Vektorji in matrike](RP2_P4_Vektorji_in_matrike.ipynb)
    Računanje z vektorji in matrikami z uporabo NumPy.
 9. [Limita in odvod - numerični pristop](RP2_P5_NumPy_odvod.ipynb)
-   Numerični pristop k rčaunanju odvoda znane in neznane funkcije
+   Numerični pristop k računanju odvoda znane in neznane funkcije
    
 VAJE
 1. [Risanje grafa funkcije](RP2_V2_risanje_grafov_funkcije.ipynb)
